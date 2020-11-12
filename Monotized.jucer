@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="Yz6Rmz" name="Monotized" projectType="audioplug" jucerVersion="5.4.4"
-              companyName="NateOnTheBeat">
+<JUCERPROJECT id="Yz6Rmz" name="Monotized" projectType="audioplug" jucerVersion="5.4.4">
   <MAINGROUP id="VAImZN" name="Monotized">
     <GROUP id="{B7D934A7-A763-E78A-F1D6-05C2C0DBDD1B}" name="Source">
       <FILE id="Hgi6oZ" name="PluginProcessor.cpp" compile="1" resource="0"
